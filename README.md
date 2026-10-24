@@ -81,4 +81,10 @@ The development branch is `codex/unfolding-wish`; `main` is unchanged. A separat
 
 The draft was visually reviewed against the selected composition with the requested original artwork substitutions. A measured comp-spec/comp-diff comparison has not been completed, so exact pixel fidelity to the generated concept is not claimed. The existing design-workflow phase record remains pending for that comparison.
 
-Before launch, confirm final copy, artwork permissions, retailer listing availability, and any additional assets Lori wants included. Eight previously identified development-tool advisories remain in the Tailwind 3 toolchain; the production dependency audit was clean after the earlier dependency update. Tailwind 4 migration is a separate change.
+- [ ] Replace Business Name in navbar + footer
+- [ ] Update metadata in `src/app/layout.tsx`
+- [ ] Replace homepage content (`src/app/page.tsx`)
+- [ ] Update About + Contact pages (`src/app/pages/*`)
+- [ ] Replace favicon + assets in `public/`
+- [ ] Update SEO metadata
+- [ ] (Optional) Update Novus credit link text / URL in the footer
