@@ -40,3 +40,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 node_modules
+
+# Local design-board servers, captures, and machine state
+/.impeccable/questions/
+/.impeccable/review/
+/.impeccable/build/
+/.impeccable/config.local.json
+/premium-audit.json

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120" preserveAspectRatio="none">
+  <defs>
+    <path id="cloud" d="M-160 72Q-100 12-35 58Q25-20 105 42Q170 0 230 55Q300-24 380 35Q445-3 505 54Q575 5 635 47Q710-28 790 37Q855-2 920 56Q990-16 1065 40Q1130 0 1195 53Q1270-22 1340 40Q1410-3 1480 55Q1550 0 1620 55V180H-160Z"/>
+  </defs>
+  <use href="#cloud" fill="white" opacity=".22" transform="translate(-35 -16)"/>
+  <use href="#cloud" fill="white" opacity=".46" transform="translate(35 -3)"/>
+  <use href="#cloud" fill="white" transform="translate(0 18)"/>
+</svg>
